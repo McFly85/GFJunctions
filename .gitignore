@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+cmake-build-debug/
+
+cmake-build-debug-wsl/
+
+cmake-build-debug-wsl-gcc/
+
+.idea/
